@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1402311853 source:j:\code\infocom\main.cpp
+	<iostream>
+	<fstream>
+	<list>
+	<cstdlib>
+
+1402557622 source:c:\users\administrator\dropbox\infocom\main.cpp
+	<iostream>
+	<fstream>
+	<list>
+	<cstdlib>
+	<cmath>
+
